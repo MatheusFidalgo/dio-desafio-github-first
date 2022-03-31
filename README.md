@@ -1,7 +1,6 @@
 # Desafio de Projeto Inicial sobre Git/GitHub da DIO.
 - Repositório criado para o Desafio de Projeto.
 - Projeto iniciado em 📆 31/03/2022 as ⏲️ 11:30.
-- 
 
 ## Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
